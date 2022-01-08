@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BMI_Calculator</string>
+    <string name="_weight">Weight:</string>
+    <string name="_height">Height:</string>
+    <string name="calculate">Calculate</string>
+    <string name="standard">Standard</string>
+    <string name="metric">Metric</string>
+    <string name="_units">Units:</string>
+    <string name="kilograms">Kilograms</string>
+    <string name="meter">Meter</string>
+    <string name="pounds">Pounds</string>
+    <string name="inches">Inches</string>
+</resources>
